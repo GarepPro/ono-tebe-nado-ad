@@ -4,4 +4,4 @@
 
 Чтобы посмотреть страницу, откройте `index.html` в браузере.
 
-[Репозиторий на GitHub](https://github.com/GarepPro/ono-tebe-nado-ad)
+Репозиторий на GitHub - https://github.com/GarepPro/ono-tebe-nado-ad
